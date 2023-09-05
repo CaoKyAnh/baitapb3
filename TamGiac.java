@@ -57,3 +57,4 @@ void Loai(double canh1,double canh2,double canh3) {
 }
 }
 }
+aaaaa
